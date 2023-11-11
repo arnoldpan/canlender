@@ -2,304 +2,304 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20230916T090000Z
-LOCATION:KB526\, 5/F\, Knowles Building\nps:100% coursework
-DTSTART:20230916T060000Z
-SUMMARY:RECO7607 Understanding Industry Practice \n(Semester Long Project)
-UID:bdcf932f-4c0a-478f-8633-ce4846eb48d3@bdcf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T050000Z
-LOCATION:Rooms at 5/F\, Knowles Building\nps:Regular Supervision Meeting \; \n20 mins per student for each meeting\n(make appointment with assigned tutors via RECO7607 Moodle)
-DTSTART:20231009T040000Z
-SUMMARY:RECO7610 Understanding Industry Practice \n(Semester Long Project)
-UID:b28a2d5a-8622-47c8-8dde-54e363bdffe6@b28a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231028T080000Z
-LOCATION:MB256\, 2/F\, Main Building\nps:100% coursework
-DTSTART:20231028T060000Z
+DTEND:20231104T100000Z
+LOCATION:KK201\, 2/F\, KK Leung Building\nps:100% coursework
+DTSTART:20231104T080000Z
 SUMMARY:RECO7618Built Assets of the Metaverse: Gaming and VDC \n(Semester Long Project)
-UID:ee86ebc9-3546-4026-946b-0f717b6a54fb@ee86.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T133000Z
-LOCATION:Zoom\nps:100% coursework
-DTSTART:20231024T103000Z
-SUMMARY:RECO7618Built Assets of the Metaverse: Gaming and VDC \n(Semester Long Project)
-UID:9e971c3b-554d-4418-aed8-3408f4911a82@9e97.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231014T040000Z
-LOCATION:KB223\, 2/F\, Knowles Building\nps:100% coursework
-DTSTART:20231014T010000Z
-SUMMARY:RECO7613Information\, Technology in Design and Construction
-UID:95439208-7e44-4e52-a372-7f4df4120715@9543.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T132000Z
-LOCATION:MWT7\, 1/F\, Meng Wah Complex\nps:100% coursework
-DTSTART:20231020T103000Z
-SUMMARY:RECO7609Technologies and Innovation
-UID:05121766-3809-4e9b-a602-3c0f0bfa2bd4@0512.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231125T090000Z
-LOCATION: KB419\, 4/F\, Knowles Building\nps:60% coursework + 40% exam
-DTSTART:20231125T060000Z
-SUMMARY:RECO7605Information Management
-UID:f0fb5bec-7773-4ba1-aba1-f663a4562ffe@f0fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T133000Z
-LOCATION:KB526\, 5/F\, Knowles Building\nps:50% coursework + 50% exam
-DTSTART:20231006T103000Z
-SUMMARY:RECO7610Virtual Facilities Management
-UID:4c818370-b98f-4734-8f6a-3964934dea3b@4c81.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231220T123000Z
-LOCATION:KB419\, 4/F\, Knowles Building\nps:5 marks for RECO7605
-DTSTART:20231220T103000Z
-SUMMARY:CEO Executive Talk
-UID:e13cad78-e341-4a69-be47-c3600434a881@e13c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230930T040000Z
-LOCATION:KB223\, 2/F\, Knowles Building\nps:ICAC Talk 100% coursework
-DTSTART:20230930T010000Z
-SUMMARY:RECO7613Information\, Technology in Design and Construction
-UID:5bda89d1-bae0-4468-a067-8c1ccb815bd3@5bda.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230909T040000Z
-LOCATION:KB526\, 5/F\, Knowles Building\nps:100% coursework
-DTSTART:20230909T010000Z
-SUMMARY:RECO7613Information\, Technology in Design and Construction
-UID:9481f873-33a3-42e6-aa55-f466b57257bd@9481.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230909T090000Z
-LOCATION:KB526\, 5/F\, Knowles Building\nps:100% coursework
-DTSTART:20230909T060000Z
-SUMMARY:RECO7607 Understanding Industry Practice \n(Semester Long Project)
-UID:5ef44edf-63b9-4476-adda-66df8a7fad57@5ef4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T133000Z
-LOCATION:KB730\, 7/F\, Knowles Building\nps:50% coursework + 50% exam
-DTSTART:20231004T103000Z
-SUMMARY:RECO7610Virtual Facilities Management  
-UID:eae8fc2b-3710-4e3b-9e04-171e59447cb1@eae8.org
+UID:19888ee1-036a-442d-baec-80d479fed31f@1988.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231003T133000Z
 LOCATION:KB730\, 7/F\, Knowles Building\nps:50% coursework + 50% exam
 DTSTART:20231003T103000Z
 SUMMARY:RECO7610Virtual Facilities Management  
-UID:be7e20fc-dbee-44f9-99b7-fd943c7169d0@be7e.org
+UID:4ddc3526-c6b5-4f39-97a1-19675a08dbcb@4ddc.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231104T100000Z
-LOCATION:KK201\, 2/F\, KK Leung Building\nps:100% coursework
-DTSTART:20231104T080000Z
-SUMMARY:RECO7618Built Assets of the Metaverse: Gaming and VDC \n(Semester Long Project)
-UID:c4588e60-f826-4060-8d22-70a5e08d1b59@c458.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T133000Z
-LOCATION:KK101\, 1/F\, KK Leung Building\nps:50% coursework + 50% exam
-DTSTART:20231005T103000Z
-SUMMARY:RECO7610Virtual Facilities Management
-UID:c8af528d-2ba4-469f-a874-80cfeb0584e5@c8af.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230916T040000Z
-LOCATION:KB526\, 5/F\, Knowles Building\nps:100% coursework
-DTSTART:20230916T010000Z
+DTEND:20231014T040000Z
+LOCATION:KB223\, 2/F\, Knowles Building\nps:100% coursework
+DTSTART:20231014T010000Z
 SUMMARY:RECO7613Information\, Technology in Design and Construction
-UID:9d2c4ae3-084b-4c69-a92f-c0b0a37ffbf0@9d2c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231014T100000Z
-LOCATION:KK201\, 2/F\, KK Leung Building\nps:100% coursework
-DTSTART:20231014T060000Z
-SUMMARY:RECO7618Built Assets of the Metaverse: Gaming and VDC \n(Semester Long Project)
-UID:8c1e31c3-156b-407a-93c5-084e6d89805d@8c1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231118T044959Z
-LOCATION:KB223\, 2/F\, Knowles Building\nps:60% coursework + 40% exam
-DTSTART:20231118T010000Z
-SUMMARY:RECO7605Information Management
-UID:0d1b0570-b250-4b2c-b04b-258d6a1ce9bf@0d1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231021T045000Z
-LOCATION:MWT7\, 1/F\, Meng Wah Complex\nps:60% coursework + 40% exam
-DTSTART:20231021T010000Z
-SUMMARY:RECO7605Information Management
-UID:c97ed899-b754-4717-ae27-915823f657f2@c97e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230924T100000Z
-LOCATION:CPD-3.41\, Centennial Campus\, Central Podium Levels - Three (CPD-3\, The Jockey Club Tower)\nps:100% coursework
-DTSTART:20230924T010000Z
-SUMMARY:RECO7609Technologies and Innovation
-UID:84125eea-2aac-4ad7-a047-f1b15a021fe6@8412.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T132000Z
-LOCATION:KK102\, 1/F\, KK Leung Building\nps:100% coursework
-DTSTART:20230915T103000Z
-SUMMARY:RECO7609Technologies and Innovation
-UID:1f3a85ef-e6d6-4b95-bfd0-4ac81a395f28@1f3a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T123000Z
-LOCATION:Hybrid \n(Primary channel for delivering the software demonstration is online.  KB204 at  2/F of  Knowles Building is also opened for students who need  face-to-face enquiry)\nps:100% coursework
-DTSTART:20231107T103000Z
-SUMMARY:RECO7618Built Assets of the Metaverse: Gaming and VDC \n(Semester Long Project)
-UID:3c75af6f-282b-4919-b83a-73c20d799201@3c75.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T050000Z
-LOCATION:Rooms at 5/F\, Knowles Building\nps:Regular Supervision Meeting \; \n20 mins per student for each meeting\n(make appointment with assigned tutors via RECO7607 Moodle)
-DTSTART:20231016T040000Z
-SUMMARY:RECO7610 Understanding Industry Practice \n(Semester Long Project)
-UID:4c8fa3ee-bdd2-4963-9eb9-450bef546c53@4c8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T050000Z
-LOCATION:Rooms at 5/F\, Knowles Building\nps:Regular Supervision Meeting \; \n20 mins per student for each meeting\n(make appointment with assigned tutors via RECO7607 Moodle)
-DTSTART:20230925T040000Z
-SUMMARY:RECO7610 Understanding Industry Practice \n(Semester Long Project)
-UID:fa091478-033b-4fe3-aa53-dba1beb618f5@fa09.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231202T090000Z
-LOCATION:KB526\, 5/F\, Knowles Building\nps:Presentation(Probably)
-DTSTART:20231202T010000Z
-SUMMARY:RECO7610 Understanding Industry Practice \n(Semester Long Project)
-UID:9a180fb5-8212-4ce8-8081-6db77926c6c3@9a18.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230930T051500Z
-LOCATION:KB223\, 2/F\, Knowles Building\nps:100% coursework
-DTSTART:20230930T041500Z
-SUMMARY:RECO7613Information\, Technology in Design and Construction (ICAC Talk)
-UID:1f48f6eb-dd0e-4321-a22a-718b8a88261a@1f48.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T123000Z
-LOCATION:Zoom\nps:5 marks for RECO7605
-DTSTART:20231214T103000Z
-SUMMARY:CEO Executive Talk
-UID:a387ab38-2f18-4f1b-a860-ae87ac974a2a@a387.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T132000Z
-LOCATION:KB223\, 2/F\, Knowles Building\nps:100% coursework
-DTSTART:20231123T103000Z
-SUMMARY:RECO7609Technologies and Innovation
-UID:7a47709a-a9e4-4b9c-8a40-dd29a4f20160@7a47.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T132000Z
-LOCATION:MWT7\, 1/F\, Meng Wah Complex\nps:100% coursework
-DTSTART:20231103T103000Z
-SUMMARY:RECO7609Technologies and Innovation
-UID:57f49bc9-9141-4cc9-8e06-43743a28ea08@57f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231029T045000Z
-LOCATION:KB419\, 4/F\, Knowles Building\nps:60% coursework + 40% exam
-DTSTART:20231029T010000Z
-SUMMARY:RECO7605Information Management
-UID:e44037d2-d549-41f1-9160-2efe4e892e78@e440.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T123000Z
-LOCATION:Zoom\nps:100% coursework
-DTSTART:20231030T103000Z
-SUMMARY:RECO7618Built Assets of the Metaverse: Gaming and VDC \n(Semester Long Project)
-UID:25978cd9-8eaa-487a-a808-4fa8e2c0ea4d@2597.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T132000Z
-LOCATION:KB533 & 534\, 5/F\, Knowles Building\nps:100% coursework
-DTSTART:20231027T103000Z
-SUMMARY:RECO7609Technologies and Innovation
-UID:7498f740-4b2e-4ec8-8b20-c3e2dfc937bd@7498.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T050000Z
-LOCATION:Rooms at 5/F\, Knowles Building\nps:Regular Supervision Meeting \; \n20 mins per student for each meeting\n(make appointment with assigned tutors via RECO7607 Moodle)
-DTSTART:20231113T040000Z
-SUMMARY:RECO7610 Understanding Industry Practice \n(Semester Long Project)
-UID:1a35c041-ff42-4485-8eee-0bb18d37117f@1a35.org
+UID:43047e66-20db-4708-9d7f-b2553f929937@4304.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231113T123000Z
 LOCATION:Hybrid \n(Primary channel for delivering the software demonstration is online.  KB204 at  2/F of  Knowles Building is also opened for students who need  face-to-face enquiry)\nps:100% coursework
 DTSTART:20231113T103000Z
 SUMMARY:RECO7618Built Assets of the Metaverse: Gaming and VDC \n(Semester Long Project)
-UID:83b3d7c8-d3fa-4e95-980a-1fcdfcfd198c@83b3.org
+UID:c41ff718-9b22-427f-8990-3082dfb9905f@c41f.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231007T090000Z
-LOCATION:KB526\, 5/F\, Knowles Building\nps:50% coursework + 50% exam
-DTSTART:20231007T010000Z
-SUMMARY:RECO7610Virtual Facilities Management
-UID:675981af-abf3-419c-986a-5d97a8860f9a@6759.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T123000Z
-LOCATION:weekday evening in Oct 2023 (Exact Date TBC)\nps:Attendance marks 10 marks for RECO7607
-DTSTART:20231117T103000Z
-SUMMARY:CEO Executive Talk
-UID:c7841918-3fda-4406-8325-444bbd008891@c784.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T050000Z
-LOCATION:Rooms at 5/F\, Knowles Building\nps:Regular Supervision Meeting \; \n20 mins per student for each meeting\n(make appointment with assigned tutors via RECO7607 Moodle)
-DTSTART:20231030T040000Z
+DTEND:20231202T090000Z
+LOCATION:KB526\, 5/F\, Knowles Building\nps:Presentation(Probably)
+DTSTART:20231202T010000Z
 SUMMARY:RECO7610 Understanding Industry Practice \n(Semester Long Project)
-UID:0a2df9b1-abab-4131-ae94-60b0c505872f@0a2d.org
+UID:2375ec4b-e909-4178-9e41-42218e4acd96@2375.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231104T044959Z
-LOCATION:KB730\, 7/F\, Knowles Building\nps:60% coursework + 40% exam
-DTSTART:20231104T010000Z
-SUMMARY:RECO7605Information Management
-UID:84514004-58bd-4236-bf12-2ca0a734db33@8451.org
+DTEND:20231004T133000Z
+LOCATION:KB730\, 7/F\, Knowles Building\nps:50% coursework + 50% exam
+DTSTART:20231004T103000Z
+SUMMARY:RECO7610Virtual Facilities Management  
+UID:f72a9c30-112d-4422-a8d5-027a09fad57b@f72a.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231111T044959Z
-LOCATION:KB223\, 2/F\, Knowles Building\nps:60% coursework + 40% exam
-DTSTART:20231111T010000Z
-SUMMARY:RECO7605Information Management
-UID:538c2fc5-25ef-4148-8777-42c40f94209e@538c.org
+DTEND:20231027T132000Z
+LOCATION:KB533 & 534\, 5/F\, Knowles Building\nps:100% coursework
+DTSTART:20231027T103000Z
+SUMMARY:RECO7609Technologies and Innovation
+UID:91030968-601a-4716-ad85-eed6a2bdc22e@9103.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231125T050000Z
 LOCATION:KB223\, 2/F\, Knowles Building\nps:60% coursework + 40% exam
 DTSTART:20231125T010000Z
 SUMMARY:RECO7605Information Management
-UID:a25892ac-6b1c-4198-ad49-c7cccd9e4308@a258.org
+UID:04f7c0a9-8565-47b0-a3d3-94917a67673c@04f7.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231021T080000Z
+DTEND:20230916T090000Z
+LOCATION:KB526\, 5/F\, Knowles Building\nps:100% coursework
+DTSTART:20230916T060000Z
+SUMMARY:RECO7607 Understanding Industry Practice \n(Semester Long Project)
+UID:768b5bae-3179-4eb6-86c4-0eaa0d0332d4@768b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231021T045000Z
+LOCATION:MWT7\, 1/F\, Meng Wah Complex\nps:60% coursework + 40% exam
+DTSTART:20231021T010000Z
+SUMMARY:RECO7605Information Management
+UID:76a3b450-0fb2-420f-8087-6ce4edbb6451@76a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230909T090000Z
+LOCATION:KB526\, 5/F\, Knowles Building\nps:100% coursework
+DTSTART:20230909T060000Z
+SUMMARY:RECO7607 Understanding Industry Practice \n(Semester Long Project)
+UID:bbefab77-bddd-47f7-9f39-f5515c9d9d41@bbef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T050000Z
+LOCATION:Rooms at 5/F\, Knowles Building\nps:Regular Supervision Meeting \; \n20 mins per student for each meeting\n(make appointment with assigned tutors via RECO7607 Moodle)
+DTSTART:20231113T040000Z
+SUMMARY:RECO7610 Understanding Industry Practice \n(Semester Long Project)
+UID:a3ff8fb3-a3bf-4546-aa32-90a58eae727a@a3ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T132000Z
+LOCATION:KK102\, 1/F\, KK Leung Building\nps:100% coursework
+DTSTART:20230915T103000Z
+SUMMARY:RECO7609Technologies and Innovation
+UID:366a1655-c9ea-44e8-8b64-c42dfba00bc2@366a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231029T045000Z
+LOCATION:KB419\, 4/F\, Knowles Building\nps:60% coursework + 40% exam
+DTSTART:20231029T010000Z
+SUMMARY:RECO7605Information Management
+UID:e21f3165-8133-466b-bdc4-35602c83bbbb@e21f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T050000Z
+LOCATION:Rooms at 5/F\, Knowles Building\nps:Regular Supervision Meeting \; \n20 mins per student for each meeting\n(make appointment with assigned tutors via RECO7607 Moodle)
+DTSTART:20231030T040000Z
+SUMMARY:RECO7610 Understanding Industry Practice \n(Semester Long Project)
+UID:0d01d267-6941-4cba-b87d-367c57722520@0d01.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T132000Z
+LOCATION:MWT7\, 1/F\, Meng Wah Complex\nps:100% coursework
+DTSTART:20231020T103000Z
+SUMMARY:RECO7609Technologies and Innovation
+UID:17f660a9-476e-419b-b502-3f0cbfdab32e@17f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230909T040000Z
+LOCATION:KB526\, 5/F\, Knowles Building\nps:100% coursework
+DTSTART:20230909T010000Z
+SUMMARY:RECO7613Information\, Technology in Design and Construction
+UID:1718645e-36a0-4753-ab60-135abeec04c4@1718.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T133000Z
+LOCATION:KK101\, 1/F\, KK Leung Building\nps:50% coursework + 50% exam
+DTSTART:20231005T103000Z
+SUMMARY:RECO7610Virtual Facilities Management
+UID:82220869-8ed3-429d-adcb-efea073b407c@8222.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T050000Z
+LOCATION:Rooms at 5/F\, Knowles Building\nps:Regular Supervision Meeting \; \n20 mins per student for each meeting\n(make appointment with assigned tutors via RECO7607 Moodle)
+DTSTART:20231009T040000Z
+SUMMARY:RECO7610 Understanding Industry Practice \n(Semester Long Project)
+UID:c58bd2b3-ce60-4b8b-9ee0-0e0352fca719@c58b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T132000Z
+LOCATION:KB223\, 2/F\, Knowles Building\nps:100% coursework
+DTSTART:20231123T103000Z
+SUMMARY:RECO7609Technologies and Innovation
+UID:874f990f-3f7f-4938-a7d5-f50d8a7b5ce9@874f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230930T040000Z
+LOCATION:KB223\, 2/F\, Knowles Building\nps:ICAC Talk 100% coursework
+DTSTART:20230930T010000Z
+SUMMARY:RECO7613Information\, Technology in Design and Construction
+UID:1c38e564-9572-48d3-98ff-1c9c5fd8a3ba@1c38.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T050000Z
+LOCATION:Rooms at 5/F\, Knowles Building\nps:Regular Supervision Meeting \; \n20 mins per student for each meeting\n(make appointment with assigned tutors via RECO7607 Moodle)
+DTSTART:20231016T040000Z
+SUMMARY:RECO7610 Understanding Industry Practice \n(Semester Long Project)
+UID:ad0603f4-4ce8-4668-aebc-ab70a3c5fa9d@ad06.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T050000Z
+LOCATION:Rooms at 5/F\, Knowles Building\nps:Regular Supervision Meeting \; \n20 mins per student for each meeting\n(make appointment with assigned tutors via RECO7607 Moodle)
+DTSTART:20230925T040000Z
+SUMMARY:RECO7610 Understanding Industry Practice \n(Semester Long Project)
+UID:bd60d27f-5589-45b7-baec-db96f7ecc827@bd60.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231220T123000Z
+LOCATION:KB419\, 4/F\, Knowles Building\nps:5 marks for RECO7605
+DTSTART:20231220T103000Z
+SUMMARY:CEO Executive Talk
+UID:db6df3a5-44eb-4780-b3c5-4ce7fff08f4b@db6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T123000Z
+LOCATION:Zoom\nps:5 marks for RECO7605
+DTSTART:20231214T103000Z
+SUMMARY:CEO Executive Talk
+UID:b6ec43e8-4fae-446b-89a4-4d4c74f4ed09@b6ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231014T100000Z
 LOCATION:KK201\, 2/F\, KK Leung Building\nps:100% coursework
-DTSTART:20231021T060000Z
+DTSTART:20231014T060000Z
 SUMMARY:RECO7618Built Assets of the Metaverse: Gaming and VDC \n(Semester Long Project)
-UID:acf10000-4547-4824-a557-57bd04df7b08@acf1.org
+UID:8c586901-b728-469f-8e8d-50ae63dfd516@8c58.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T123000Z
+LOCATION:KB730\, 7/F\, Knowles Building\nps:Attendance marks 10 marks for RECO7607
+DTSTART:20231117T103000Z
+SUMMARY:CEO Executive Talk
+UID:03c8546e-cadf-4144-9e35-b6ec85788f17@03c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231028T080000Z
+LOCATION:MB256\, 2/F\, Main Building\nps:100% coursework
+DTSTART:20231028T060000Z
+SUMMARY:RECO7618Built Assets of the Metaverse: Gaming and VDC \n(Semester Long Project)
+UID:3c54b5d7-cf48-4320-b639-9fbaf7efd8cb@3c54.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231111T044959Z
+LOCATION:KB223\, 2/F\, Knowles Building\nps:60% coursework + 40% exam
+DTSTART:20231111T010000Z
+SUMMARY:RECO7605Information Management
+UID:3fe4031f-0510-4f91-accb-abc080a5f919@3fe4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T132000Z
+LOCATION:MWT7\, 1/F\, Meng Wah Complex\nps:100% coursework
+DTSTART:20231103T103000Z
+SUMMARY:RECO7609Technologies and Innovation
+UID:e5d9bf19-a7aa-4fbd-9458-fc4b09d3ee92@e5d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T123000Z
+LOCATION:Hybrid \n(Primary channel for delivering the software demonstration is online.  KB204 at  2/F of  Knowles Building is also opened for students who need  face-to-face enquiry)\nps:100% coursework
+DTSTART:20231107T103000Z
+SUMMARY:RECO7618Built Assets of the Metaverse: Gaming and VDC \n(Semester Long Project)
+UID:5a8d57a1-d6e8-4b6e-8a05-263c41a97375@5a8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230924T100000Z
+LOCATION:CPD-3.41\, Centennial Campus\, Central Podium Levels - Three (CPD-3\, The Jockey Club Tower)\nps:100% coursework
+DTSTART:20230924T010000Z
+SUMMARY:RECO7609Technologies and Innovation
+UID:1def549d-5301-4ffd-9809-a35f93c79077@1def.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230930T051500Z
+LOCATION:KB223\, 2/F\, Knowles Building\nps:100% coursework
+DTSTART:20230930T041500Z
+SUMMARY:RECO7613Information\, Technology in Design and Construction (ICAC Talk)
+UID:da2cc4de-714c-4c1d-ab15-4e4d489c222c@da2c.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231015T100000Z
 LOCATION:KB526\, 5/F\, Knowles Building\nps:100% coursework
 DTSTART:20231015T010000Z
 SUMMARY:RECO7613Information\, Technology in Design and Construction
-UID:a1ee6685-b39d-43fb-821c-7a7cca4a97e2@a1ee.org
+UID:7c0d67d6-2e18-4a81-a8a5-0f6d1b1966f3@7c0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T133000Z
+LOCATION:Zoom\nps:100% coursework
+DTSTART:20231024T103000Z
+SUMMARY:RECO7618Built Assets of the Metaverse: Gaming and VDC \n(Semester Long Project)
+UID:0692750b-e234-41a4-ac32-2ea816b913bd@0692.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231007T090000Z
+LOCATION:KB526\, 5/F\, Knowles Building\nps:50% coursework + 50% exam
+DTSTART:20231007T010000Z
+SUMMARY:RECO7610Virtual Facilities Management
+UID:95ef8a5a-fa8f-4a36-a39f-2677e3bb88c5@95ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231125T090000Z
+LOCATION: KB419\, 4/F\, Knowles Building\nps:60% coursework + 40% exam
+DTSTART:20231125T060000Z
+SUMMARY:RECO7605Information Management
+UID:0698393b-6b6c-4574-bdc9-e13190a87c4d@0698.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230916T040000Z
+LOCATION:KB526\, 5/F\, Knowles Building\nps:100% coursework
+DTSTART:20230916T010000Z
+SUMMARY:RECO7613Information\, Technology in Design and Construction
+UID:ab6b39ee-2879-43ee-bd5a-f873d1b18088@ab6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T123000Z
+LOCATION:Zoom\nps:100% coursework
+DTSTART:20231030T103000Z
+SUMMARY:RECO7618Built Assets of the Metaverse: Gaming and VDC \n(Semester Long Project)
+UID:60f3f309-b3e7-4c3f-80fe-a49974db7e40@60f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231118T044959Z
+LOCATION:KB223\, 2/F\, Knowles Building\nps:60% coursework + 40% exam
+DTSTART:20231118T010000Z
+SUMMARY:RECO7605Information Management
+UID:1af47ad0-6374-402e-81ae-2d961a84bbf0@1af4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231021T080000Z
+LOCATION:KK201\, 2/F\, KK Leung Building\nps:100% coursework
+DTSTART:20231021T060000Z
+SUMMARY:RECO7618Built Assets of the Metaverse: Gaming and VDC \n(Semester Long Project)
+UID:57e98325-db71-4def-9e51-d14cadaef65c@57e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T133000Z
+LOCATION:KB526\, 5/F\, Knowles Building\nps:50% coursework + 50% exam
+DTSTART:20231006T103000Z
+SUMMARY:RECO7610Virtual Facilities Management
+UID:d3fb0b67-d642-42a2-b9a1-bdebba17ede7@d3fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231104T044959Z
+LOCATION:KB730\, 7/F\, Knowles Building\nps:60% coursework + 40% exam
+DTSTART:20231104T010000Z
+SUMMARY:RECO7605Information Management
+UID:3b27161e-f788-4585-8553-99bd498a9093@3b27.org
 END:VEVENT
 END:VCALENDAR
